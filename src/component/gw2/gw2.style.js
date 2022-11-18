@@ -9,4 +9,8 @@ gap: 2rem;
 a{
   font-size: 40px;
 }
+img{
+  height: 300px;
+  width: 600px;
+}
 `
