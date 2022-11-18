@@ -6,6 +6,7 @@ const Ff14 = () => {
       <a href='https://freetrial.finalfantasyxiv.com/gb/' target='_blank'>
         Final Fantasy 14
       </a>
+
       <img src='ff14.jpg' />
       <p> Release Date: 2013 | Developer: Square Enix</p>
       <span>
