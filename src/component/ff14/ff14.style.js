@@ -16,6 +16,7 @@ img{
   grid-column: 2/3;
   height: 300px;
   width: 600px;
+  grid-row: 2/3;
 }
 p{
   grid-column: 2/3;
@@ -23,5 +24,15 @@ p{
 span{
   grid-column: 2/3;
 }
-
+table{
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid;
+  grid-row: 2/3;
+}
 `
+// const Info = (pros, cons) => {
+//   return
+// }

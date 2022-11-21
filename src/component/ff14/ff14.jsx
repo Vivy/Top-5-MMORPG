@@ -6,7 +6,36 @@ const Ff14 = () => {
       <a href='https://freetrial.finalfantasyxiv.com/gb/' target='_blank'>
         Final Fantasy 14
       </a>
-
+      <table className='pros'>
+        Pros
+        <tbody>
+          <tr>
+            <th> Money </th> Monthly subscription 100/month
+          </tr>
+          <tr>
+            <th>Minimum Requirements </th> Windows 9 5Gb RAM, NVidia G-Force 3,
+            20Gb Free on Hard-disk
+          </tr>
+          <tr>
+            <th> Time Spent</th> Minimum 4H/day to enjoy the game
+          </tr>
+        </tbody>
+      </table>
+      <table className='cons'>
+        Cons
+        <tbody>
+          <tr>
+            <th> Money </th> Monthly subscription 100/month
+          </tr>
+          <tr>
+            <th>Minimum Requirements </th> Windows 9 5Gb RAM, NVidia G-Force 3,
+            20Gb Free on Hard-disk
+          </tr>
+          <tr>
+            <th> Time Spent</th> Minimum 4H/day to enjoy the game
+          </tr>
+        </tbody>
+      </table>
       <img src='ff14.jpg' />
       <p> Release Date: 2013 | Developer: Square Enix</p>
       <span>
