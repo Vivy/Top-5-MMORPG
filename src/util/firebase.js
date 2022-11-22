@@ -24,9 +24,7 @@ export const sendData = async (games) => {
   console.log()
   const mmorpg = collection(db, "games");
 
-  await setDoc(doc(mmorpg, "FF14"), {
-    obiect
-  })
+  await setDoc(doc(mmorpg, "FF14"), games)
   console.log("working")
 }
 
